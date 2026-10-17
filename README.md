@@ -33,7 +33,7 @@ const rio = {
   nama: "Rio Damanik",
   kampus: "Institut Teknologi Del",
   fokus: ["Web Development", "Backend dengan Laravel"],
-  sedangDipelajari: ["Spring Boot", "Data Analysis dengan Python"],
+  sedangDipelajari: ["Mobile Application", "Data Analysis dengan Python"],
   status: "Terbuka untuk kolaborasi",
 };
 ```
